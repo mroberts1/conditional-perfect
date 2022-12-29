@@ -30,7 +30,7 @@ website:
 format:
   html:
     theme: 
-      light: ember.scss
+      light: litera
       dark: slate
     css: custom.scss
     fontsize: 1em
