@@ -1,0 +1,12 @@
+---
+title: "conditional perfect"
+subtitle: "yet another nick drake blog"
+listing:
+  contents: posts
+  sort: "date asc"
+  type: grid
+  grid-columns: 3
+  fields: [title, date]
+page-layout: article
+title-block-banner: true
+---
