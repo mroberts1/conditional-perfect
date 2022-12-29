@@ -29,10 +29,10 @@ website:
       repo: mroberts1/conditional-perfect
 format:
   html:
-    theme: ember.scss
+    theme: litera
     css: custom.scss
-    fontsize: 1.1em
-    linestretch: 1.5
+    fontsize: 1em
+    linestretch: 1.7
     smooth-scroll: true
 
 editor: visual
