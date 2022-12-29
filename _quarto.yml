@@ -19,6 +19,9 @@ website:
       - icon: twitter
         href: https://twitter.com/dokoissho
       - about.qmd
+  comments:
+    giscus:
+      repo: mroberts1/conditional-perfect
 format:
   html:
     theme: ember.scss
@@ -29,8 +32,5 @@ format:
 
 editor: visual
 
-comments:
-  giscus:
-    repo: mroberts1/conditional-perfect
 
 
