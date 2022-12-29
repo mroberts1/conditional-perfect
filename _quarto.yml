@@ -29,7 +29,9 @@ website:
       repo: mroberts1/conditional-perfect
 format:
   html:
-    theme: litera
+    theme: 
+      light: ember.scss
+      dark: slate
     css: custom.scss
     fontsize: 1em
     linestretch: 1.7
