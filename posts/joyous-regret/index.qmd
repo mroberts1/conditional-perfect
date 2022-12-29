@@ -2,9 +2,13 @@
 title: "Joyous Regret: One of These Things First"
 date: "2020-12-16"
 ---
-I'm driving home after dropping off my son at school for the day, and blasting out of the car stereo is Nick Drake's song "One of These Things First," from his second recorded album, *Bryter Later* (1971). As the song glides into its chorus, building into Drake's part-anguished, part-ecstatic refrain, "I could have beeeeeeeeeen...," I suddenly find myself unexpectedly tearing up, and it occurs to me that it's time I wrote something about Nick Drake.
+I'm driving home after dropping off my son at school for the day, and blasting out of the car stereo is Nick Drake's song "One of These Things First," from his second recorded album, *Bryter Later* (1971). As the song glides into its chorus, building into Drake's part-anguished, part-ecstatic refrain, "I could have beeeeeeeeeen..." I suddenly find myself unexpectedly tearing up, and it occurs to me that it's time I wrote something about Nick Drake.
 
-If you haven't heard the song before, go and have a listen to "One Of These Things First" on [Spotify](https://open.spotify.com/track/0hNVjU6JKydHts0SAjHCno?si=IDHlynqET16sLTvC5WYOBQ) and then come back. Here are the lyrics:
+If you haven't heard the song before, have a listen to the song itself first.
+
+:::{.column-margin}
+{{< video https://youtu.be/vDtsgVgAx6k width="200" height="200" >}}
+:::
 
 > I could have been a sailor, could have been a cook   
 > A real-life lover, could have been a book.  
