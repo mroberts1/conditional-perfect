@@ -18,7 +18,12 @@ website:
         href: https://github.com/mroberts1
       - icon: twitter
         href: https://twitter.com/dokoissho
-      - about.qmd
+  page-footer:
+    right: 
+      - text: "About"
+        href: about.qmd
+      - text: "License"
+        href: license.qmd
   comments:
     giscus:
       repo: mroberts1/conditional-perfect

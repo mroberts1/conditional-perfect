@@ -19,5 +19,8 @@
   },
   "posts/fruit-tree/index.qmd": {
     "index.html": "f166aec7"
+  },
+  "license.qmd": {
+    "license.html": "7bd65b1a"
   }
 }
