@@ -9,4 +9,5 @@ listing:
   fields: [title, date]
 page-layout: article
 title-block-banner: true
+comments: false
 ---
