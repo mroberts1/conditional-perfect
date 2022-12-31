@@ -14,9 +14,10 @@ $theme: "litera" !default;
 @import url('https://fonts.googleapis.com/css2?family=Alegreya&display=swap');
 @import url("https://use.typekit.net/uds6lpa.css");
 @import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
-@import url("https://cdn.jsdelivr.net/npm/charter-webfont@4/charter.min.css");*/
-@import url('https://fonts.googleapis.com/css2?family=Spectral&display=swap');
+@import url("https://cdn.jsdelivr.net/npm/charter-webfont@4/charter.min.css");
+@import url('https://fonts.googleapis.com/css2?family=Spectral&display=swap');*/
+@import url('https://fonts.googleapis.com/css2?family=Enriqueta&display=swap');
 
 $primary:  #06436e !default;
-$font-family-base: 'Sabon', 'Spectral',  serif !default;
+$font-family-base: 'Enriqueta','Sabon', 'Spectral',  serif !default;
 $headings-font-family: 'Lato', 'Cabin', 'Montserrat', 'Source Sans Pro', sans-serif !default;
