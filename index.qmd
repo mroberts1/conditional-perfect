@@ -6,9 +6,9 @@ listing:
   sort: "date asc"
   date-format: short
   type: grid
-  grid-columns: 3
+  grid-columns: 1
   fields: [title, date]
-page-layout: full
+page-layout: article
 ---
 
 # conditional perfect
