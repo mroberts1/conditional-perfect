@@ -1,0 +1,37 @@
+project:
+  type: website
+
+website:
+  title: "     "
+  site-url: https://conditional-perfect.netlify.app
+  repo-url: https://github.com/mroberts1/conditional-perfect
+  # navbar:
+  #   background: none
+  #   right:
+  #     - icon: mastodon
+  #       aria-label: mastodon
+  #       href: https://merveilles.town/@dokoissho
+  #     - icon: github
+  #       href: https://github.com/mroberts1
+  #     - icon: twitter
+  #       href: https://twitter.com/dokoissho
+  page-footer:
+    right: 
+      - text: "About"
+        href: about.qmd
+      - text: "License"
+        href: license.qmd
+## comments:
+##    giscus:
+##     repo: mroberts1/conditional-perfect
+format:
+  html:
+    theme: 
+      light: litera
+      dark: slate
+    fontsize: 0.8em
+    linestretch: 1.5
+    smooth-scroll: true
+
+
+

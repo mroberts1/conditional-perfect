@@ -1,13 +1,19 @@
 ---
-title: "conditional perfect"
-subtitle: "yet another nick drake blog"
+title: "    "
 listing:
+  id: sample-listings
   contents: posts
   sort: "date asc"
+  date-format: short
   type: grid
   grid-columns: 3
   fields: [title, date]
-page-layout: article
-title-block-banner: true
-comments: false
+page-layout: full
 ---
+
+# conditional perfect
+
+## yet another nick drake blog
+
+
+

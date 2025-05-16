@@ -1,43 +1,30 @@
 project:
-  type: website
-
-website:
-  title: "conditional perfect"
-  site-url: https://conditional-perfect.netlify.app
-  repo-url: https://github.com/mroberts1/conditional-perfect
-  open-graph: true
-  twitter-card:
-    creator: "@dokoissho"
-    card-style: summary_large_image
-  navbar:
-    right:
-      - icon: mastodon
-        aria-label: mastodon
-        href: https://merveilles.town/@dokoissho
-      - icon: github
-        href: https://github.com/mroberts1
-      - icon: twitter
-        href: https://twitter.com/dokoissho
-  page-footer:
-    right: 
-      - text: "About"
-        href: about.qmd
-      - text: "License"
-        href: license.qmd
-## comments:
-##    giscus:
-##     repo: mroberts1/conditional-perfect
+  type:
+    website
+  
 format:
-  html:
+  html: 
+    backgroundcolor: "#EFEDE5"
     theme: 
-      light: theme.scss
-      dark: slate
+      light: [litera, ember.scss]
     css: custom.scss
-    fontsize: 1em
-    linestretch: 1.7
+    #self-contained: true
+    grid:
+        sidebar-width: 400px
+        body-width: 600px
+        #margin-width: 300px
+        #gutter-width: 1em
+    fontsize: 1.1em
+    linestretch: 1.5
     smooth-scroll: true
-
-editor: visual
-
-
-
+    linkcolor: "#2E5392"
+    link-external-newwindow: true
+  #PrettyPDF-pdf: default
+lightbox: 
+  match: auto
+  effect: fade
+  loop: false
+fig-responsive: true
+image-alt: " "
+execute:
+  freeze: auto

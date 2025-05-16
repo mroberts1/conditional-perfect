@@ -7,11 +7,9 @@ lightbox: auto
 fig-align: left
 ---
 
-::: {layout="[[49, -2, 49]]"}
-![](crabapple-large.jpg){width=50%} 
+![](crabapple-large.jpg)
 
 It's a beautiful Spring morning, with what seems like the first sun in weeks, a brisk April breeze blowing through the treetops, cotton-wool clouds scudding across the sky, and the likelihood of showers. On the front lawn, the fuchsia-colored blossoms of the crabapple tree are in full bloom. And today's Nick Drake song of the day, as I drive my son to school, is "Fruit Tree." 
-:::
 
 It's a typically exquisite Drake song, with minor-to-major shifts and  unexpected diminished chords, string orchestration, and the haunting melody of a cor anglais, overlaid with the singer's characteristically wan delivery of bittersweet lyrics. In this case those lyrics are even more poignant than usual, since they are of course a foreshadowing of Drake's own unsung career in his short life and his posthumous fame. Melancholy even by Drake's usual standards, they stand perfectly as a poem in their own right:
 

@@ -1,0 +1,4 @@
+format:
+  html:
+    grid:
+      body-width: 600px

@@ -2,50 +2,51 @@
 title: "Joyous Regret: One of These Things First"
 date: "2020-12-16"
 ---
+
 I'm driving home after dropping off my son at school for the day, and blasting out of the car stereo is Nick Drake's song "One of These Things First," from his second recorded album, *Bryter Later* (1971). As the song glides into its chorus, building into Drake's part-anguished, part-ecstatic refrain, "I could have beeeeeeeeeen..." I suddenly find myself unexpectedly tearing up, and it occurs to me that it's time I wrote something about Nick Drake.
 
 If you haven't heard the song before, have a listen to the song itself first.
 
-:::{.column-margin}
+::: column-margin
 {{< video https://youtu.be/vDtsgVgAx6k width="200" height="200" >}}
 :::
 
-> I could have been a sailor, could have been a cook   
-> A real-life lover, could have been a book.  
-> I could have been a signpost, could have been a clock  
-> As simple as a kettle, steady as a rock.  
-> I could be  
-> Here and now  
-> I would be, I should be  
+> I could have been a sailor, could have been a cook\
+> A real-life lover, could have been a book.\
+> I could have been a signpost, could have been a clock\
+> As simple as a kettle, steady as a rock.\
+> I could be\
+> Here and now\
+> I would be, I should be
 
-> I could have been  
-> One of these things first  
-> I could have been  
-> One of these things first.  
+> I could have been\
+> One of these things first\
+> I could have been\
+> One of these things first.
 
-> I could have been your pillar, could have been your door  
-> I could have stayed beside you, could have stayed for more.  
-> Could have been your statue, could have been your friend  
-> A whole long lifetime could have been the end.  
-> I could be yours so true  
-> I would be, I should be through and through  
+> I could have been your pillar, could have been your door\
+> I could have stayed beside you, could have stayed for more.\
+> Could have been your statue, could have been your friend\
+> A whole long lifetime could have been the end.\
+> I could be yours so true\
+> I would be, I should be through and through
 
-> I could have been  
-> One of these things first  
-> I could have been  
-> One of these things first.  
+> I could have been\
+> One of these things first\
+> I could have been\
+> One of these things first.
 
-> I could have been a whistle, could have been a flute  
-> A real live giver, could have been a boot.  
-> I could have been a signpost, could have been a clock  
-> As simple as a kettle, steady as a rock.  
-> I could be even here  
-> I would be, I should be so near  
+> I could have been a whistle, could have been a flute\
+> A real live giver, could have been a boot.\
+> I could have been a signpost, could have been a clock\
+> As simple as a kettle, steady as a rock.\
+> I could be even here\
+> I would be, I should be so near
 
-> I could have been  
-> One of these things first  
-> I could have been  
-> One of these things first.  
+> I could have been\
+> One of these things first\
+> I could have been\
+> One of these things first.
 
 This could possibly be the only song in the history of popular music to have been written entirely in the conditional perfect tense. The conditional perfect is the most melancholy of the grammatical tenses: it's about what might have been, what might have happened, yet did not. It's unsurprising that Nick Drake, the arch-melancholic, should have written an entire song in the conditional perfect, since his own life was in many ways about what might have been, what might have happened, yet did not. The song of course takes on a particular poignancy given Drake's untimely death on 25 November 1974 at the age of 26. Yet in spite of this, there was always something of the young fogey about Drake, a maturity of outlook that belied his youth: already in this song, written not long before his demise, he's looking back over his past life and loves, and reflecting upon the better lives that might have been, in the conditional perfect. The possibilities start out conventionally, as imagined alter egos (sailor, cook, lover), but in another typically Drakeian move, quickly turn whimsical, as Drake starts imagining himself as not even human, but a series of inanimate objects (book, signpost, clock, kettle; whistle, flute, boot), as he explores what he could have been before the musician that he is now: one of these things first. Literally. At first it might seem ironic that among the list of possible lives (and objects) considered, there's one conspicuous absence: musician, songwriter. The reason is of course obvious: this is who he is now, even as he muses wistfully on who (or what) else he could have been instead. The song itself is evidence both of what he has achieved, while reflecting on what might have been.
 
