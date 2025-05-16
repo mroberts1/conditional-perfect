@@ -13,7 +13,7 @@ page-layout: full
 
 # conditional perfect
 
-## yet another nick drake blog
+yet another nick drake blog
 
 
 
